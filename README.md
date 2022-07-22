@@ -1,8 +1,6 @@
 ## **REDUX 101**
 
----
-
-#### Main Concept: 
+#### Main Concept:
 
 This is a simple redux project to understand the basics of redux.
 
